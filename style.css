@@ -1,0 +1,30 @@
+*{
+    font-family: cursive;
+    margin: 10px;
+}
+
+#top{
+    background-color: black;
+    color: aqua;
+    text-align: left;
+    padding: 5px 15px;
+    
+}
+.multicolortext{
+    color: whitesmoke;
+}
+
+#mid{
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+    padding: 5px;
+}
+
+#bot{
+    background-color:lightskyblue;
+    text-decoration: underline;
+    text-align: right;
+    padding: 5px 15px;
+}
